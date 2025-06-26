@@ -82,17 +82,17 @@ DoraDora/
 ## Screenshots
 
 1. **Connection** – Shows how the terminal looks when the client successfully connects to the server.  
-   ![Server Connected](screenshots/ServerConnected.png)
-   ![Client Connected](screenshots/ClientConnected.png)
+   ![Server Connected](Screenshots/ServerConnected.png)
+   ![Client Connected](Screenshots/ClientConnected.png)
 
 2. **Question Exchange** – Server sends a question, and then the client responds with Yes/No.
-   ![Question Exchange](screenshots/question_exchange.png)
+   ![Question Exchange](Screenshots/question_exchange.png)
 
 3. **Server Guessing** – Server makes a guess with "GESS Is your character ABC?" and then it awaits confirmation.
-   ![Server Guessing](screenshots/server_guessing.png)
+   ![Server Guessing](Screenshots/server_guessing.png)
 
 4. **Correct Guess & Confirmation** – Server receives a "yes" response from the user and sends a celebration message.  
-   ![Correct Guess](screenshots/correct_guess.png)
+   ![Correct Guess](Screenshots/correct_guess.png)
 
 
 ## Future Improvements
